@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Anush Kapoor 👋
+I am a full-stack developer specializing in MERN Stack. I am passionate about creating beautiful websites with robust backends; besides web development, I am also interested in Low-Level Programming. 
 
 <!--
 **Ank206/Ank206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
